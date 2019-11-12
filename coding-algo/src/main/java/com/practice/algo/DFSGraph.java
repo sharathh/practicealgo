@@ -5,7 +5,6 @@ import java.util.LinkedList;
 
 class DFSGraph {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
     List<String> vertices = new LinkedList<String>();
     vertices.add("a");
     vertices.add("b");
